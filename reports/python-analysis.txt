@@ -1,0 +1,21 @@
+PYTHON LOG ANALYSIS REPORT
+=========================
+
+Total Requests: 93
+Successful Requests: 69
+Total Errors: 24
+
+STATUS CODE SUMMARY
+-------------------
+200: 69
+401: 6
+404: 11
+500: 7
+
+ERRORS BY TYPE
+--------------
+401: 6
+404: 11
+500: 7
+
+Most Common Error: 404 (11 occurrences)
